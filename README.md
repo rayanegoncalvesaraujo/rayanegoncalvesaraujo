@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @rayanegoncalvesaraujo
+- 👋 Hi, I'm @rayanegoncalvesaraujo (Rayane Gonçalves Araújo)
 - 👀 I'm interested in Systems Development
 - 🌱 I'm currently learning HTML, CSS, JavaScript and getting to know content from other areas.
 - 💞️ I'm looking to collaborate with companies in software development
