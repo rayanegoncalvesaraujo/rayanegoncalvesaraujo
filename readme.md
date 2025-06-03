@@ -2,8 +2,6 @@
   
 # 👩‍💻 Rayane Gonçalves Araújo
 
-## <img src="https://user-images.githubusercontent.com/placeholder-image.png" width="400" /> ## 
-
 ---
 
 ⭐ **Sobre mim:**
