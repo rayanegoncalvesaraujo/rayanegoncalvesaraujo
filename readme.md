@@ -15,6 +15,15 @@ Atualmente participo do **Programadores do Amanhã** 💡
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanegoncalvesaraujo&layout=compact&theme=radical)
 
 ---
+## 🚀 Habilidades:
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+
+---
 
 ## 📫 Contatos:
 
@@ -27,13 +36,3 @@ Atualmente participo do **Programadores do Amanhã** 💡
 <a href="https://discord.com/users/rayanegoncalves0268">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge">
 </a>
-
----
-
-## 🚀 Habilidades:
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
