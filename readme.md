@@ -2,10 +2,6 @@
 
 # 👩‍💻 Rayane Gonçalves Araújo
 
-<img src="[https://drive.google.com/file/d/1z3YhaK6_yge63UePXbDdglE0scz_fWsH/view?usp=drive_link](https://github.com/account)" width="400" />
-
----
-
 ## 👋 Olá!
 
 Meu nome é **Rayane** e sou uma **dev web** 🚀  
