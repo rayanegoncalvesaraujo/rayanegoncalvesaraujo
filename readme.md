@@ -9,7 +9,7 @@ Atualmente participo do **Programadores do Amanhã** 💡
 
 ---
 
-## 📊 Rayane's GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rayanegoncalvesaraujo&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayanegoncalvesaraujo&layout=compact&theme=radical)
