@@ -2,7 +2,7 @@
 
 # 👩‍💻 Rayane Gonçalves Araújo
 
-<img src="https://user-images.githubusercontent.com/placeholder-image.png" width="400" />
+<img src="https://drive.google.com/file/d/1z3YhaK6_yge63UePXbDdglE0scz_fWsH/view?usp=drive_link" width="400" />
 
 ---
 
