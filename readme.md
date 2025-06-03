@@ -2,7 +2,7 @@
   
 # 👩‍💻 Rayane Gonçalves Araújo
 
-<img src="https://user-images.githubusercontent.com/placeholder-image.png" width="400" />
+## <img src="https://user-images.githubusercontent.com/placeholder-image.png" width="400" /> ## 
 
 ---
 
@@ -11,7 +11,7 @@
 Olá. 👋  
 Bem-vindo ao meu GitHub! Aqui você poderá ver um pouquinho dos meus projetos:
 
-- 🚀 **dev web fullstack**  
+- 🚀 **dev web**  
 - 💡 **Programadores do Amanhã**
 
 ---
